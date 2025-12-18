@@ -1,0 +1,91 @@
+class,direction,feature,coef
+0,neg,team_avg_grid,-0.06866214912009257
+0,neg,driver_standings_position_pre_race,-0.03223451251670315
+0,neg,round,-0.018524119176086665
+0,neg,constructor_standings_position_pre_race,-0.014718381435648006
+0,neg,team_name_Haas F1 Team   ,-0.013378766190727311
+0,neg,team_name_AlphaTauri     ,-0.008110603040136439
+0,neg,teammate_grid,-0.006130160017331633
+0,neg,team_name_Williams       ,-0.004020967548593317
+0,neg,rainfall_any,-0.0035499617518063332
+0,neg,tracktemp_mean,-0.0022853255388018377
+0,neg,year,-0.000674531671974259
+0,neg,team_name_Ferrari        ,-0.0005448844299562528
+0,neg,pressure_mean,-0.00033154519358303804
+0,neg,constructor_standings_points_pre_race,0.0005612441140249502
+0,neg,team_name_Red Bull       ,0.0010535136807257623
+0,pos,year,-0.000674531671974259
+0,pos,team_name_Ferrari        ,-0.0005448844299562528
+0,pos,pressure_mean,-0.00033154519358303804
+0,pos,constructor_standings_points_pre_race,0.0005612441140249502
+0,pos,team_name_Red Bull       ,0.0010535136807257623
+0,pos,humidity_mean,0.0010911718280260788
+0,pos,team_name_McLaren        ,0.001313401952618572
+0,pos,driver_standings_points_pre_race,0.0018002932078426085
+0,pos,windspeed_mean,0.0028368747513253744
+0,pos,team_name_Mercedes       ,0.0043024045410434055
+0,pos,team_name_Alpine F1 Team ,0.007239596754238876
+0,pos,team_name_Aston Martin   ,0.011597521272471422
+0,pos,grid_norm,0.011604512654295032
+0,pos,airtemp_mean,0.016412705519559274
+0,pos,grid,0.2320902530858494
+1,neg,grid,-0.03889476670237933
+1,neg,airtemp_mean,-0.017641078064958102
+1,neg,windspeed_mean,-0.014834629787132817
+1,neg,driver_standings_position_pre_race,-0.00914267233673709
+1,neg,round,-0.009130065229426615
+1,neg,constructor_standings_position_pre_race,-0.006266942861565064
+1,neg,rainfall_any,-0.004836989933153577
+1,neg,team_name_Aston Martin   ,-0.004830551935540037
+1,neg,team_name_Alpine F1 Team ,-0.004065726796674768
+1,neg,team_name_AlphaTauri     ,-0.003189060042643739
+1,neg,grid_norm,-0.0019447383351185474
+1,neg,humidity_mean,-0.00134322258137906
+1,neg,team_name_Red Bull       ,-0.0008382477887997718
+1,neg,constructor_standings_points_pre_race,-0.00030257279262952644
+1,neg,team_name_Ferrari        ,-0.00021289893675874614
+1,pos,grid_norm,-0.0019447383351185474
+1,pos,humidity_mean,-0.00134322258137906
+1,pos,team_name_Red Bull       ,-0.0008382477887997718
+1,pos,constructor_standings_points_pre_race,-0.00030257279262952644
+1,pos,team_name_Ferrari        ,-0.00021289893675874614
+1,pos,year,9.034876321105816e-05
+1,pos,pressure_mean,0.0004980243691380317
+1,pos,team_name_McLaren        ,0.00078837716392309
+1,pos,driver_standings_points_pre_race,0.001969152327364994
+1,pos,team_name_Williams       ,0.004331796997191508
+1,pos,tracktemp_mean,0.004668008223101157
+1,pos,team_name_Mercedes       ,0.005508542719945233
+1,pos,team_name_Haas F1 Team   ,0.007546141134461682
+1,pos,teammate_grid,0.019352195925680993
+1,pos,team_avg_grid,0.02573646030008737
+2,neg,grid,-0.19319548638351988
+2,neg,teammate_grid,-0.013222035908358493
+2,neg,team_name_Mercedes       ,-0.00981094726098809
+2,neg,grid_norm,-0.00965977431917589
+2,neg,team_name_Aston Martin   ,-0.006766969336931052
+2,neg,driver_standings_points_pre_race,-0.0037694455352063425
+2,neg,team_name_Alpine F1 Team ,-0.0031738699575641263
+2,neg,tracktemp_mean,-0.0023826826843000425
+2,neg,team_name_McLaren        ,-0.00210177911654155
+2,neg,team_name_Williams       ,-0.00031082944859814733
+2,neg,constructor_standings_points_pre_race,-0.00025867132139361846
+2,neg,team_name_Red Bull       ,-0.00021526589192595746
+2,neg,pressure_mean,-0.00016647917555548693
+2,neg,humidity_mean,0.0002520507533522969
+2,neg,year,0.0005841829087673444
+2,pos,constructor_standings_points_pre_race,-0.00025867132139361846
+2,pos,team_name_Red Bull       ,-0.00021526589192595746
+2,pos,pressure_mean,-0.00016647917555548693
+2,pos,humidity_mean,0.0002520507533522969
+2,pos,year,0.0005841829087673444
+2,pos,team_name_Ferrari        ,0.0007577833667150207
+2,pos,airtemp_mean,0.0012283725453989748
+2,pos,team_name_Haas F1 Team   ,0.005832625056265383
+2,pos,rainfall_any,0.008386951684959457
+2,pos,team_name_AlphaTauri     ,0.011299663082779415
+2,pos,windspeed_mean,0.011997755035806612
+2,pos,constructor_standings_position_pre_race,0.020985324297212737
+2,pos,round,0.027654184405516577
+2,pos,driver_standings_position_pre_race,0.04137718485343981
+2,pos,team_avg_grid,0.04292568882001444

@@ -4,13 +4,14 @@ from pathlib import Path
 # -----------------------------
 # Paths
 # -----------------------------
-
-# This file is in DSAP_F1/src → go one level up to reach the project root
-ROOT = Path(__file__).resolve().parent.parent  # -> DSAP_F1/
+# This file lives in: DSAP_F1/src/data/
+# ROOT must point to: DSAP_F1/
+ROOT = Path(__file__).resolve().parent.parent.parent  # -> DSAP_F1/
 DATA = ROOT / "data"
-WEATHER_DIR = DATA / "weather"
+WEATHER = DATA / "weather"
 PROCESSED = DATA / "processed"
 
+# Make sure processed/ exists
 PROCESSED.mkdir(parents=True, exist_ok=True)
 
 
@@ -18,11 +19,11 @@ def load_raw_weather() -> pd.DataFrame:
     """
     Load the raw weather CSV from the Kaggle dataset.
 
-    Expected columns (from your screenshot):
+    Expected columns (example):
     Time, AirTemp, Humidity, Pressure, Rainfall,
     TrackTemp, WindDirection, WindSpeed, Round Number, Year
     """
-    df = pd.read_csv(WEATHER_DIR / "weather.csv")
+    df = pd.read_csv(WEATHER / "weather.csv")
     print("\n✅ Raw weather data loaded:", df.shape)
     return df
 

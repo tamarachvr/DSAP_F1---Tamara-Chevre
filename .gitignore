@@ -15,12 +15,24 @@ env/
 # ---- VS Code settings ----
 .vscode/
 
-# ---- Data: do not push big CSVs ----
-data/global/*.csv
-data/processed/*.csv
-
-# Keep only small samples if needed
-!data/processed/sample_*.csv
-
 # ---- OS junk ----
 .DS_Store
+
+# ---- Environment / secrets ----
+.env
+.python-version
+
+# ---- Raw data (NOT pushed) ----
+data/global/*.csv
+data/weather/*.csv
+data/safetycar/*.csv
+
+# ---- Models (regenerable, NOT pushed) ----
+models/
+*.joblib
+
+# ---- Everything else is versioned ----
+# - data/processed        ✅
+# - results/*.csv         ✅
+# - notebooks             ✅
+# - src/                  ✅

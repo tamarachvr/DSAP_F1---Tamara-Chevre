@@ -5,7 +5,10 @@ from pathlib import Path
 # Paths
 # -----------------------------
 
-ROOT = Path(__file__).resolve().parent.parent  # -> DSAP_F1/
+# This file lives in DSAP_F1/src/data/
+# ROOT points to the project root: DSAP_F1/
+
+ROOT = Path(__file__).resolve().parent.parent.parent  # -> DSAP_F1/
 DATA = ROOT / "data"
 GLOBAL = DATA / "global"
 PROCESSED = DATA / "processed"
@@ -81,16 +84,16 @@ def build_base_results_2021_2023():
         "year",
         "date",
         "raceId",
-        "name",            # race name
+        "name",          # race name
         "driverId",
         "forename",
         "surname",
         "code",
         "constructorId",
-        "name_team",       # team name
-        "grid",            # starting position
-        "positionOrder",   # numeric finish position
-        "positionText",    # raw finish text (e.g. DNF)
+        "name_team",     # team name
+        "grid",          # starting position
+        "positionOrder", # numeric finish position
+        "positionText",  # raw finish text (e.g. DNF)
         "statusId",
         "points",
     ]

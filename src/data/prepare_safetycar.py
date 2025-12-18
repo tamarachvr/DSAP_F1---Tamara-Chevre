@@ -4,12 +4,14 @@ from pathlib import Path
 # -----------------------------
 # Paths
 # -----------------------------
-
-ROOT = Path(__file__).resolve().parent.parent  # -> DSAP_F1/
+# This file lives in: DSAP_F1/src/data/
+# ROOT must point to: DSAP_F1/
+ROOT = Path(__file__).resolve().parent.parent.parent  # -> DSAP_F1/
 DATA = ROOT / "data"
 SAFETYCAR = DATA / "safetycar"
 PROCESSED = DATA / "processed"
 
+# Make sure processed/ exists
 PROCESSED.mkdir(parents=True, exist_ok=True)
 
 
@@ -31,33 +33,27 @@ def prepare_safetycar_for_merge() -> pd.DataFrame:
     - Extract the year and the race name from the 'Race' column
       (e.g. '1998 Canadian Grand Prix' -> year=1998, race_name='Canadian Grand Prix')
     - Keep only seasons 2021–2023
-    - Aggregate to one row per (year, race_name), with simple safety car metrics
+    - Aggregate one row per (year, race_name)
     """
     df = load_raw_safetycar()
 
     # Split 'Race' into year and race_name
-    # Example: "1998 Canadian Grand Prix" -> "1998", "Canadian Grand Prix"
     split = df["Race"].str.split(" ", n=1, expand=True)
     df["year"] = split[0].astype(int)
     df["race_name"] = split[1].str.strip()
 
     print("After extracting year and race_name:", df.shape)
 
-    # Keep only seasons 2021–2023
+    # Keep only 2021–2023
     df_2123 = df[df["year"].between(2021, 2023)].copy()
     print("Safety car events 2021–2023 (raw events):", df_2123.shape)
 
     if df_2123.empty:
         print("\n⚠️ No safety car events found for 2021–2023 in this dataset.")
-        print("   This may be because the Kaggle dataset stops earlier,")
-        print("   or uses different naming for recent races.")
-        # We still return the empty frame with the right columns
+        print("   Returning empty frame with correct structure.")
         return df_2123[["year", "race_name"]].drop_duplicates()
 
-    # Aggregate to one row per race:
-    # - number of safety car periods
-    # - first and last lap under safety car
-    # - total number of laps under safety car
+    # Aggregate to one row per race
     safety_by_race = (
         df_2123
         .groupby(["year", "race_name"], as_index=False)

@@ -1,0 +1,1321 @@
+year,date,raceId,race_name,driverId,forename,surname,code,constructorId,team_name,grid,finish_position,finish_text,statusId,points,race_name_clean,race_name_sc,safetycar_events,first_deploy_lap,last_retreated_lap,total_safetycar_laps
+2021,2021-11-21,1051,Qatar Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,1,1,1,1,25.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,2,11,11,11,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,3,3,3,1,15.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,846,Lando,Norris,NOR,1,McLaren,4,9,9,11,2.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,7,7,1,6.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,6,20,R,137,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,830,Max,Verstappen,VER,9,Red Bull,7,2,2,1,19.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,8,13,13,11,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,9,5,5,1,10.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,10,10,10,11,1.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,11,4,4,1,12.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,12,6,6,1,8.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,13,8,8,1,4.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,14,12,12,11,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,847,George,Russell,RUS,3,Williams,15,17,17,12,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,16,14,14,11,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,17,19,R,29,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,18,15,15,11,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,19,16,16,11,0.0,qatar,,,,,
+2021,2021-11-21,1051,Qatar Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,20,18,18,12,0.0,qatar,,,,,
+2021,2021-03-28,1052,Bahrain Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,0,5,5,1,10.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,2,2,1,18.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,1,1,1,25.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,3,3,3,1,16.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,4,6,6,1,8.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,5,17,17,31,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,6,7,7,1,6.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,4,4,1,12.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,8,8,8,1,4.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,9,19,R,23,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,10,10,10,1,1.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,12,12,12,11,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,13,9,9,1,2.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,14,11,11,1,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,847,George,Russell,RUS,3,Williams,15,14,14,11,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,16,13,13,11,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,17,18,18,31,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,18,16,16,11,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,19,20,R,3,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-03-28,1052,Bahrain Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,20,15,15,11,0.0,bahrain,Bahrain Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,0,15,15,6,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,1,2,2,1,19.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,2,11,11,1,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,1,1,1,25.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,4,4,4,1,12.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,5,7,7,1,6.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,6,6,6,1,8.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,3,3,1,15.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,8,18,R,4,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,9,9,9,1,2.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,10,8,8,1,4.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,11,5,5,1,10.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,847,George,Russell,RUS,3,Williams,12,19,R,4,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,14,20,R,4,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,15,10,10,1,1.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,16,13,13,1,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,17,14,14,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,18,16,16,12,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,19,17,17,12,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-04-18,1053,Emilia Romagna Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,20,12,12,1,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,1,3,3,1,16.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,1,1,1,25.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,2,2,1,18.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,4,4,1,12.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,11,11,1,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,6,7,7,1,6.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,5,5,1,10.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,8,6,6,1,8.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,9,10,10,1,1.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,10,13,13,11,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,847,George,Russell,RUS,3,Williams,11,16,16,11,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,12,12,12,11,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,13,8,8,1,4.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,14,15,15,11,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,15,20,R,130,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,16,9,9,1,2.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,17,14,14,11,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,18,18,12,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,19,17,17,12,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-02,1054,Portuguese Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,20,19,19,12,0.0,portuguese,Portuguese Grand Prix,1.0,2.0,7.0,4.0
+2021,2021-05-09,1055,Spanish Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,1,1,1,1,25.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,2,2,1,19.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,3,3,3,1,15.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,4,4,4,1,12.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,5,9,9,11,2.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,6,7,7,1,6.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,7,6,6,1,8.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,8,5,5,1,10.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,846,Lando,Norris,NOR,1,McLaren,9,8,8,11,4.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,10,17,17,11,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,11,11,11,11,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,12,10,10,11,1.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,13,13,13,11,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,14,15,15,11,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,847,George,Russell,RUS,3,Williams,15,14,14,11,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,20,R,10,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,17,12,12,11,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,18,18,18,12,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,19,16,16,11,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-09,1055,Spanish Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,20,19,19,12,0.0,spanish,Spanish Grand Prix,1.0,8.0,11.0,2.0
+2021,2021-05-23,1056,Monaco Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,20,W,30,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,1,1,1,25.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,3,19,R,61,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,2,2,1,18.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,846,Lando,Norris,NOR,1,McLaren,5,3,3,1,15.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,6,6,6,1,8.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,7,7,7,1,7.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,8,5,5,1,10.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,9,4,4,1,12.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,10,10,10,11,1.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,11,9,9,11,2.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,12,12,12,11,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,13,8,8,11,4.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,14,11,11,11,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,847,George,Russell,RUS,3,Williams,15,14,14,11,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,16,16,11,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,17,13,13,11,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,15,15,11,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,19,17,17,13,0.0,monaco,,,,,
+2021,2021-05-23,1056,Monaco Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,20,18,18,13,0.0,monaco,,,,,
+2021,2021-06-06,1057,Azerbaijan Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,4,4,1,12.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,15,15,1,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,18,R,3,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,4,3,3,1,15.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,8,8,1,4.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,6,1,1,1,25.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,7,7,7,1,6.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,8,6,6,1,8.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,846,Lando,Norris,NOR,1,McLaren,9,5,5,1,10.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,10,12,12,1,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,11,2,2,1,18.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,12,20,R,101,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,13,9,9,1,2.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,14,10,10,1,1.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,847,George,Russell,RUS,3,Williams,15,17,R,6,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,16,16,16,1,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,17,13,13,1,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,18,14,14,1,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,19,19,R,3,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-06,1057,Azerbaijan Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,20,11,11,1,0.0,azerbaijan,Azerbaijan Grand Prix,2.0,32.0,49.0,4.0
+2021,2021-06-27,1058,Styrian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,2,2,1,19.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,846,Lando,Norris,NOR,1,McLaren,3,5,5,11,10.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,4,4,1,12.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,5,3,3,1,15.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,6,20,R,4,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,7,7,7,11,6.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,8,9,9,11,2.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,9,8,8,11,4.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,847,George,Russell,RUS,3,Williams,10,19,R,5,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,11,10,10,11,1.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,12,6,6,11,8.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,13,13,13,11,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,14,12,12,11,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,15,15,15,11,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,16,17,17,13,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,17,14,14,11,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,18,11,11,11,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,19,16,16,12,0.0,styrian,,,,,
+2021,2021-06-27,1058,Styrian Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,20,18,18,13,0.0,styrian,,,,,
+2021,2021-06-20,1059,French Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,0,13,13,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,2,2,1,18.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,3,4,4,1,12.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,3,3,1,15.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,11,11,1,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,6,7,7,1,6.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,7,16,16,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,846,Lando,Norris,NOR,1,McLaren,8,5,5,1,10.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,9,8,8,1,4.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,10,6,6,1,8.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,11,14,14,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,12,9,9,1,2.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,13,15,15,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,847,George,Russell,RUS,3,Williams,14,12,12,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,15,19,19,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,16,18,18,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,17,17,17,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,18,20,20,11,0.0,french,,,,,
+2021,2021-06-20,1059,French Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,19,10,10,1,1.0,french,,,,,
+2021,2021-07-04,1060,Austrian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,846,Lando,Norris,NOR,1,McLaren,2,3,3,1,15.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,3,6,6,1,8.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,4,4,4,1,12.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,5,2,2,1,18.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,6,9,9,1,2.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,7,12,12,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,847,George,Russell,RUS,3,Williams,8,11,11,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,9,13,13,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,10,5,5,1,10.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,11,17,17,4,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,12,8,8,1,4.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,13,7,7,1,6.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,14,10,10,11,1.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,15,14,14,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,16,15,15,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,17,20,R,4,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,16,16,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,19,18,18,12,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-04,1060,Austrian Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,20,19,19,12,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,2.0
+2021,2021-07-18,1061,British Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,0,16,16,11,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,20,R,4,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,1,1,1,25.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,3,3,3,1,15.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,4,2,2,1,18.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,846,Lando,Norris,NOR,1,McLaren,5,4,4,1,12.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,6,5,5,1,10.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,7,7,7,1,6.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,8,19,R,31,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,9,9,9,1,2.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,10,6,6,1,8.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,11,11,11,1,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,847,George,Russell,RUS,3,Williams,12,12,12,11,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,13,15,15,11,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,14,8,8,1,4.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,15,13,13,11,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,10,10,1,1.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,17,14,14,11,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,18,18,18,11,0.0,british,,,,,
+2021,2021-07-18,1061,British Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,19,17,17,11,0.0,british,,,,,
+2021,2021-08-01,1062,Hungarian Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,0,13,13,11,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,1,2,2,1,18.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,2,16,R,4,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,9,9,1,2.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,17,R,4,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,5,5,5,1,11.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,846,Lando,Norris,NOR,1,McLaren,6,15,R,4,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,7,18,R,4,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,1,1,1,25.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,9,4,4,1,12.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,10,20,D,2,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,11,11,11,11,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,12,19,R,4,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,13,10,10,11,1.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,15,3,3,1,15.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,6,6,1,8.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,847,George,Russell,RUS,3,Williams,17,8,8,1,4.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,7,7,1,6.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,19,14,R,4,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-01,1062,Hungarian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,20,12,12,11,0.0,hungarian,Hungarian Grand Prix,1.0,1.0,2.0,1.0
+2021,2021-08-29,1063,Belgian Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,0,18,18,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,0,19,19,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,12.5,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,847,George,Russell,RUS,3,Williams,2,2,2,1,9.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,3,3,1,7.5,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,4,4,4,1,6.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,5,5,5,1,5.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,6,6,6,1,4.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,7,7,1,3.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,9,8,8,1,2.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,10,9,9,1,1.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,11,10,10,1,0.5,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,12,11,11,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,13,12,12,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,14,13,13,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,846,Lando,Norris,NOR,1,McLaren,15,14,14,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,15,15,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,17,16,16,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,18,17,17,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-08-29,1063,Belgian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,19,20,20,1,0.0,belgian,Belgian Grand Prix,1.0,1.0,,2.0
+2021,2021-09-05,1064,Dutch Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,0,8,8,11,4.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,0,16,16,12,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,2,2,1,19.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,3,3,3,1,15.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,4,4,4,11,12.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,5,5,5,11,10.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,6,7,7,11,6.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,7,14,14,12,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,9,9,11,2.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,9,6,6,11,8.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,10,11,11,11,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,847,George,Russell,RUS,3,Williams,11,17,17,6,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,12,12,12,12,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,846,Lando,Norris,NOR,1,McLaren,13,10,10,11,1.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,14,19,R,131,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,15,13,13,12,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,9,Robert,Kubica,KUB,51,Alfa Romeo,16,15,15,12,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,17,18,18,13,0.0,dutch,,,,,
+2021,2021-09-05,1064,Dutch Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,18,20,R,9,0.0,dutch,,,,,
+2021,2021-09-12,1065,Italian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,0,19,R,22,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,0,20,W,23,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,18,R,4,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,2,1,1,1,26.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,846,Lando,Norris,NOR,1,McLaren,3,2,2,1,18.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,4,17,R,4,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,5,4,4,1,12.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,6,6,6,1,8.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,7,13,13,1,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,8,5,5,1,10.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,9,7,7,1,6.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,10,8,8,1,4.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,11,12,12,1,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,12,10,10,1,1.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,13,11,11,1,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,847,George,Russell,RUS,3,Williams,14,9,9,1,2.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,16,16,R,131,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,9,Robert,Kubica,KUB,51,Alfa Romeo,17,14,14,1,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,18,15,15,1,0.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-12,1065,Italian Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,19,3,3,1,15.0,italian,Italian Grand Prix,1.0,26.0,32.0,5.0
+2021,2021-09-26,1066,Russian Grand Prix,846,Lando,Norris,NOR,1,McLaren,1,7,7,1,7.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,2,3,3,1,15.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,847,George,Russell,RUS,3,Williams,3,10,10,1,1.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,4,1,1,1,25.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,5,4,4,1,12.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,6,6,6,1,8.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,7,11,11,1,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,8,9,9,1,2.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,9,14,14,11,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,10,12,12,11,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,11,13,13,11,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,12,17,17,11,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,13,8,8,1,4.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,14,20,R,44,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,15,18,18,12,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,16,5,5,1,10.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,17,16,16,11,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,19,19,3,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,19,15,15,11,0.0,russian,,,,,
+2021,2021-09-26,1066,Russian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,20,2,2,1,18.0,russian,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,1,1,1,1,26.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,2,2,1,18.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,3,4,4,1,12.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,4,6,6,1,8.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,5,16,16,11,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,6,3,3,1,15.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,7,7,1,6.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,8,9,9,1,2.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,9,14,14,11,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,10,18,18,11,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,11,5,5,1,10.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,12,10,10,11,1.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,847,George,Russell,RUS,3,Williams,13,15,15,11,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,14,19,19,12,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,15,17,17,11,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,16,11,11,11,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,17,12,12,11,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,18,20,20,12,0.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,19,8,8,1,4.0,turkish,,,,,
+2021,2021-10-10,1067,Turkish Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,20,13,13,11,0.0,turkish,,,,,
+2021,2021-10-24,1069,United States Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,2,2,1,19.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,3,3,3,1,15.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,4,4,4,1,12.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,7,7,1,6.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,6,5,5,1,10.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,8,8,1,4.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,8,20,R,22,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,9,6,6,1,8.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,10,9,9,11,2.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,11,19,R,26,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,12,11,11,11,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,13,12,12,11,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,14,15,15,11,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,15,13,13,11,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,16,16,16,12,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,17,17,17,12,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,18,10,10,11,1.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,19,18,R,65,0.0,united states,,,,,
+2021,2021-10-24,1069,United States Grand Prix,847,George,Russell,RUS,3,Williams,20,14,14,11,0.0,united states,,,,,
+2021,2021-11-07,1070,Mexico City Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,1,15,15,12,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,2,2,1,18.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,1,1,1,25.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,3,3,1,15.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,5,4,4,1,12.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,6,6,6,11,8.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,7,12,12,11,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,8,5,5,1,10.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,9,7,7,11,6.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,10,8,8,11,4.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,11,11,11,11,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,12,9,9,11,2.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,13,17,17,12,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,14,19,R,4,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,15,18,18,13,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,847,George,Russell,RUS,3,Williams,16,16,16,12,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,17,20,R,4,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,846,Lando,Norris,NOR,1,McLaren,18,10,10,11,1.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,19,13,13,11,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-07,1070,Mexico City Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,20,14,14,12,0.0,mexico city,Mexico City Grand Prix,1.0,1.0,5.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,0,12,12,11,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,1,3,3,1,15.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,2,2,1,18.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,6,6,1,8.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,4,4,1,13.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,846,Lando,Norris,NOR,1,McLaren,5,10,10,11,1.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,6,5,5,1,10.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,7,7,7,11,6.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,8,8,11,4.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,9,11,11,11,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,10,1,1,1,25.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,11,19,R,75,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,12,9,9,11,2.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,13,14,14,11,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,14,20,R,130,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,15,15,15,11,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,16,16,16,11,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,847,George,Russell,RUS,3,Williams,17,13,13,11,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,18,18,18,12,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-11-14,1071,São Paulo Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,19,17,17,12,0.0,são paulo,São Paulo Grand Prix,1.0,6.0,10.0,3.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,1,1,1,1,26.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,2,3,3,1,15.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,2,2,1,18.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,4,7,7,1,6.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,5,17,R,4,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,6,6,6,1,8.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,10,10,1,1.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,8,14,14,11,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,9,4,4,1,12.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,10,9,9,1,2.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,11,5,5,1,10.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,12,15,15,11,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,13,13,13,11,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,847,George,Russell,RUS,3,Williams,14,19,R,4,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,15,8,8,1,4.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,16,12,12,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,17,16,R,130,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,18,11,11,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,19,20,R,3,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-05,1072,Saudi Arabian Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,20,18,R,4,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,10.0,15.0,4.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,2,2,1,18.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,846,Lando,Norris,NOR,1,McLaren,3,7,7,1,6.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,15,15,5,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,3,3,1,15.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,822,Valtteri,Bottas,BOT,131,Mercedes,6,6,6,1,8.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,7,10,10,1,1.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,8,4,4,1,12.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,9,9,9,1,2.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,10,12,12,11,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,11,8,8,1,4.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,12,5,5,1,10.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,13,13,13,11,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,841,Antonio,Giovinazzi,GIO,51,Alfa Romeo,14,17,R,6,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,15,11,11,1,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,16,16,R,3,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,847,George,Russell,RUS,3,Williams,17,18,R,6,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,8,Kimi,Räikkönen,RAI,51,Alfa Romeo,18,19,R,23,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,19,14,14,11,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2021,2021-12-12,1073,Abu Dhabi Grand Prix,853,Nikita,Mazepin,MAZ,210,Haas F1 Team,20,20,W,139,0.0,abu dhabi,Abu Dhabi Grand Prix,1.0,54.0,58.0,3.0
+2022,2022-03-20,1074,Bahrain Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,1,1,1,26.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,19,19,32,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,2,2,1,18.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,18,18,32,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,3,3,1,15.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,6,6,6,1,8.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,7,5,5,1,10.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,8,9,9,1,2.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,847,George,Russell,RUS,131,Mercedes,9,4,4,1,12.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,10,20,R,131,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,11,7,7,1,6.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,12,11,11,1,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,846,Lando,Norris,NOR,1,McLaren,13,15,15,1,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,848,Alexander,Albon,ALB,3,Williams,14,13,13,1,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,15,10,10,1,1.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,8,8,1,4.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,807,Nico,Hülkenberg,HUL,117,Aston Martin,17,17,17,1,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,18,14,14,1,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,19,12,12,1,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-20,1074,Bahrain Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,20,16,16,1,0.0,bahrain,Bahrain Grand Prix,1.0,46.0,51.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,0,20,W,54,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,1,4,4,1,12.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,2,2,2,1,19.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,3,3,1,15.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,4,1,1,1,25.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,5,6,6,1,8.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,847,George,Russell,RUS,131,Mercedes,6,5,5,1,10.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,7,16,R,103,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,8,15,R,141,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,9,8,8,1,4.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,10,9,9,1,2.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,846,Lando,Norris,NOR,1,McLaren,11,7,7,1,6.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,12,11,11,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,13,13,13,11,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,14,17,R,6,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,15,10,10,1,1.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,848,Alexander,Albon,ALB,3,Williams,16,14,14,130,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,807,Nico,Hülkenberg,HUL,117,Aston Martin,17,12,12,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,18,R,3,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-03-27,1075,Saudi Arabian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,19,19,R,131,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,16.0,21.0,4.0
+2022,2022-04-10,1076,Australian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,1,1,1,26.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,18,R,95,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,3,2,2,1,18.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,846,Lando,Norris,NOR,1,McLaren,4,5,5,1,10.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,4,4,1,12.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,847,George,Russell,RUS,131,Mercedes,6,3,3,1,15.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,7,6,6,1,8.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,7,7,1,6.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,9,20,R,20,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,10,17,17,11,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,11,9,9,1,2.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,12,8,8,1,4.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,13,15,15,11,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,14,11,11,1,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,15,13,13,11,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,16,14,14,11,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,17,19,R,3,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,16,16,11,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,19,12,12,1,0.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-10,1076,Australian Grand Prix,848,Alexander,Albon,ALB,3,Williams,20,10,10,1,1.0,australian,Australian Grand Prix,2.0,4.0,27.0,5.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,0,15,15,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,2,6,6,1,8.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,3,2,2,1,18.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,20,R,4,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,846,Lando,Norris,NOR,1,McLaren,5,3,3,1,15.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,6,18,18,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,7,5,5,1,10.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,8,9,9,1,2.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,9,19,R,130,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,10,17,17,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,847,George,Russell,RUS,131,Mercedes,11,4,4,1,12.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,12,7,7,1,6.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,13,8,8,1,4.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,14,13,13,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,15,10,10,11,1.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,16,14,14,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,17,12,12,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,848,Alexander,Albon,ALB,3,Williams,18,11,11,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-04-24,1077,Emilia Romagna Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,19,16,16,11,0.0,emilia romagna,Emilia Romagna Grand Prix,1.0,1.0,5.0,4.0
+2022,2022-05-08,1078,Miami Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,0,10,10,1,1.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,0,17,17,4,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,2,2,1,18.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,2,3,3,1,15.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,1,1,1,26.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,4,4,1,12.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,5,7,7,1,6.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,6,6,6,1,8.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,7,18,R,22,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,846,Lando,Norris,NOR,1,McLaren,8,19,R,4,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,9,12,12,1,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,11,11,11,1,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,847,George,Russell,RUS,131,Mercedes,12,5,5,1,10.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,14,13,13,1,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,15,15,15,1,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,16,16,16,33,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,17,20,R,47,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,848,Alexander,Albon,ALB,3,Williams,18,9,9,1,2.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,19,14,14,1,0.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-08,1078,Miami Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,20,8,8,1,4.0,miami,Miami Grand Prix,1.0,40.0,47.0,6.0
+2022,2022-05-22,1079,Spanish Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,20,R,101,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,1,1,1,25.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,4,4,1,12.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,847,George,Russell,RUS,131,Mercedes,4,3,3,1,15.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,5,2,2,1,19.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,6,5,5,1,10.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,7,6,6,1,8.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,8,17,17,12,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,9,12,12,11,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,10,14,14,11,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,846,Lando,Norris,NOR,1,McLaren,11,8,8,1,4.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,12,7,7,1,6.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,13,10,10,11,1.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,14,13,13,11,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,15,19,R,75,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,16,11,11,11,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,17,15,15,11,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,848,Alexander,Albon,ALB,3,Williams,18,18,18,12,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,19,16,16,12,0.0,spanish,,,,,
+2022,2022-05-22,1079,Spanish Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,20,9,9,11,2.0,spanish,,,,,
+2022,2022-05-29,1080,Monaco Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,4,4,1,12.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,2,2,2,1,18.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,3,1,1,1,25.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,830,Max,Verstappen,VER,9,Red Bull,4,3,3,1,15.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,846,Lando,Norris,NOR,1,McLaren,5,6,6,1,9.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,847,George,Russell,RUS,131,Mercedes,6,5,5,1,10.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,7,7,7,1,6.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,8,8,8,1,4.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,9,10,10,1,1.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,10,12,12,1,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,11,17,17,11,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,12,9,9,1,2.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,13,20,R,34,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,14,13,13,1,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,15,19,R,3,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,848,Alexander,Albon,ALB,3,Williams,16,18,R,26,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,17,11,11,1,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,18,14,14,1,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,19,15,15,11,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-05-29,1080,Monaco Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,20,16,16,11,0.0,monaco,Monaco Grand Prix,2.0,1.0,33.0,6.0
+2022,2022-06-12,1081,Azerbaijan Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,19,R,131,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,2,2,2,1,19.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,1,1,1,25.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,20,R,9,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,847,George,Russell,RUS,131,Mercedes,5,3,3,1,15.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,6,5,5,1,10.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,7,4,4,1,12.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,8,13,13,11,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,9,6,6,1,8.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,10,7,7,1,6.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,846,Lando,Norris,NOR,1,McLaren,11,9,9,1,2.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,12,8,8,1,4.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,13,10,10,1,1.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,14,18,R,9,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,15,11,11,11,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,16,17,R,131,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,848,Alexander,Albon,ALB,3,Williams,17,12,12,11,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,15,15,11,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,19,16,16,76,0.0,azerbaijan,,,,,
+2022,2022-06-12,1081,Azerbaijan Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,20,14,14,11,0.0,azerbaijan,,,,,
+2022,2022-06-19,1082,Canadian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,2,9,9,1,2.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,2,2,1,19.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,4,3,3,1,15.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,5,17,17,1,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,6,19,R,5,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,7,6,6,1,8.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,847,George,Russell,RUS,131,Mercedes,8,4,4,1,12.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,9,11,11,1,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,10,8,8,1,4.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,11,7,7,1,6.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,848,Alexander,Albon,ALB,3,Williams,12,13,13,1,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,13,20,R,6,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,846,Lando,Norris,NOR,1,McLaren,14,15,15,1,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,15,14,14,1,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,16,12,12,1,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,17,10,10,1,1.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,16,16,1,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,19,5,5,1,10.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-06-19,1082,Canadian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,20,18,R,3,0.0,canadian,Canadian Grand Prix,1.0,49.0,55.0,5.0
+2022,2022-07-03,1083,British Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,1,1,1,1,25.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,7,7,1,6.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,3,4,4,1,12.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,2,2,1,18.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,3,3,1,16.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,846,Lando,Norris,NOR,1,McLaren,6,6,6,1,8.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,7,5,5,1,10.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,847,George,Russell,RUS,131,Mercedes,8,18,R,4,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,9,19,R,4,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,10,12,12,1,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,11,16,R,130,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,12,17,R,6,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,13,14,14,1,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,14,13,13,1,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,15,15,R,48,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,848,Alexander,Albon,ALB,3,Williams,16,20,R,4,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,17,10,10,1,1.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,18,9,9,1,2.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,19,8,8,1,4.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-03,1083,British Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,20,11,11,1,0.0,british,British Grand Prix,1.0,39.0,43.0,4.0
+2022,2022-07-10,1084,Austrian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,0,11,11,11,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,2,2,1,19.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,2,1,1,1,25.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,18,R,131,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,847,George,Russell,RUS,131,Mercedes,4,4,4,1,12.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,5,20,R,130,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,6,5,5,1,10.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,7,8,8,11,4.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,8,3,3,1,15.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,9,6,6,11,8.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,846,Lando,Norris,NOR,1,McLaren,10,7,7,11,6.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,11,9,9,11,2.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,12,13,13,11,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,13,14,14,11,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,14,15,15,11,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,848,Alexander,Albon,ALB,3,Williams,15,12,12,11,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,16,16,11,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,17,19,R,140,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,18,17,17,11,0.0,austrian,,,,,
+2022,2022-07-10,1084,Austrian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,19,10,10,11,1.0,austrian,,,,,
+2022,2022-07-24,1085,French Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,19,R,3,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,1,1,1,25.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,3,4,4,1,12.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,4,2,2,1,18.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,846,Lando,Norris,NOR,1,McLaren,5,7,7,1,6.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,847,George,Russell,RUS,131,Mercedes,6,3,3,1,15.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,7,6,6,1,8.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,8,20,R,140,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,9,9,9,1,2.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,10,8,8,1,4.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,11,14,14,1,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,12,11,11,1,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,848,Alexander,Albon,ALB,3,Williams,13,13,13,1,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,14,12,12,1,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,15,10,10,1,1.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,16,16,16,16,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,17,15,15,1,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,17,R,130,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,19,5,5,1,11.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-24,1085,French Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,20,18,R,130,0.0,french,French Grand Prix,1.0,18.0,21.0,2.0
+2022,2022-07-31,1086,Hungarian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,0,12,12,11,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,847,George,Russell,RUS,131,Mercedes,1,3,3,1,15.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,2,4,4,1,12.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,3,6,6,1,8.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,846,Lando,Norris,NOR,1,McLaren,4,7,7,1,6.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,5,9,9,11,2.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,6,8,8,11,4.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,7,2,2,1,19.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,8,20,20,131,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,9,15,15,11,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,10,1,1,1,25.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,11,5,5,1,10.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,12,13,13,11,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,13,16,16,11,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,14,11,11,11,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,15,14,14,11,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,19,19,12,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,848,Alexander,Albon,ALB,3,Williams,17,17,17,11,0.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,18,10,10,11,1.0,hungarian,,,,,
+2022,2022-07-31,1086,Hungarian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,19,18,18,11,0.0,hungarian,,,,,
+2022,2022-08-28,1087,Belgian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,0,9,9,1,2.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,0,13,13,1,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,1,3,3,1,15.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,2,2,2,1,18.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,3,5,5,1,10.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,4,20,R,130,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,847,George,Russell,RUS,131,Mercedes,5,4,4,1,12.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,848,Alexander,Albon,ALB,3,Williams,6,10,10,1,1.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,7,15,15,1,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,9,11,11,1,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,10,8,8,1,4.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,11,18,18,11,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,12,16,16,11,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,13,19,R,3,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,14,1,1,1,26.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,15,6,6,1,8.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,16,7,7,1,6.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,846,Lando,Norris,NOR,1,McLaren,17,12,12,1,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,18,14,14,1,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-08-28,1087,Belgian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,19,17,17,11,0.0,belgian,Belgian Grand Prix,1.0,2.0,5.0,3.0
+2022,2022-09-04,1088,Dutch Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,2,3,3,1,15.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,8,8,1,4.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,4,4,4,1,12.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,5,5,5,1,10.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,847,George,Russell,RUS,131,Mercedes,6,2,2,1,18.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,7,7,1,6.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,8,13,13,1,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,9,20,R,24,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,10,10,10,1,1.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,11,11,11,1,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,12,9,9,1,2.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,13,6,6,1,8.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,14,16,16,1,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,848,Alexander,Albon,ALB,3,Williams,15,12,12,1,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,16,19,R,5,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,17,17,17,1,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,18,15,15,1,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,19,14,14,1,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-04,1088,Dutch Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,20,18,18,11,0.0,dutch,Dutch Grand Prix,1.0,56.0,61.0,4.0
+2022,2022-09-11,1089,Italian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,2,2,1,18.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,847,George,Russell,RUS,131,Mercedes,2,3,3,1,15.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,846,Lando,Norris,NOR,1,McLaren,3,7,7,1,6.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,4,17,R,44,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,5,8,8,1,4.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,6,19,R,34,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,7,1,1,1,25.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,856,Nyck,de Vries,DEV,3,Williams,8,9,9,1,2.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,9,10,10,1,1.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,10,15,15,11,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,11,20,R,5,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,12,18,R,5,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,13,6,6,1,9.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,14,11,11,1,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,15,13,13,11,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,16,16,16,11,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,17,12,12,1,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,18,4,4,1,12.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,19,5,5,1,10.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-09-11,1089,Italian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,20,14,14,11,0.0,italian,Italian Grand Prix,1.0,47.0,,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,847,George,Russell,RUS,131,Mercedes,0,14,14,12,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,2,2,1,18.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,2,1,1,1,25.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,9,9,1,2.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,3,3,1,15.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,5,18,R,5,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,846,Lando,Norris,NOR,1,McLaren,6,4,4,1,12.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,7,10,10,1,1.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,830,Max,Verstappen,VER,9,Red Bull,8,7,7,1,6.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,9,12,12,1,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,10,15,R,3,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,11,6,6,1,8.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,12,13,13,11,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,13,8,8,1,4.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,14,20,R,4,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,15,11,11,1,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,16,5,5,1,10.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,17,16,R,5,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,848,Alexander,Albon,ALB,3,Williams,18,17,R,130,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-02,1091,Singapore Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,19,19,R,130,0.0,singapore,Singapore Grand Prix,2.0,8.0,40.0,6.0
+2022,2022-10-09,1092,Japanese Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,2,3,3,1,15.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,19,R,3,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,2,2,1,18.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,5,4,4,1,12.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,6,5,5,1,10.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,7,7,7,1,6.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,847,George,Russell,RUS,131,Mercedes,8,8,8,1,4.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,9,6,6,1,8.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,846,Lando,Norris,NOR,1,McLaren,10,10,10,1,1.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,11,11,11,1,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,12,15,15,1,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,13,13,13,1,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,14,16,16,1,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,15,17,17,1,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,848,Alexander,Albon,ALB,3,Williams,16,20,R,9,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,17,18,18,1,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,18,14,14,1,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,19,12,12,1,0.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-09,1092,Japanese Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,20,9,9,1,2.0,japanese,Japanese Grand Prix,1.0,1.0,6.0,5.0
+2022,2022-10-23,1093,United States Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,0,11,11,1,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,1,20,R,130,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,1,1,1,25.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,2,2,1,18.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,847,George,Russell,RUS,131,Mercedes,4,5,5,1,11.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,5,18,R,4,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,846,Lando,Norris,NOR,1,McLaren,6,6,6,1,8.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,7,19,R,20,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,848,Alexander,Albon,ALB,3,Williams,8,13,13,1,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,9,4,4,1,12.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,10,8,8,1,4.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,11,14,14,1,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,12,3,3,1,15.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,13,9,9,1,2.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,14,7,7,1,6.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,15,16,16,1,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,16,15,15,1,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,17,17,17,1,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,18,12,12,1,0.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-23,1093,United States Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,19,10,10,1,1.0,united states,United States Grand Prix,2.0,18.0,26.0,7.0
+2022,2022-10-30,1094,Mexico City Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,847,George,Russell,RUS,131,Mercedes,2,4,4,1,13.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,2,2,1,18.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,3,3,1,15.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,5,5,1,10.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,6,10,10,11,1.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,7,6,6,1,8.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,846,Lando,Norris,NOR,1,McLaren,8,9,9,11,2.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,9,19,19,5,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,10,8,8,11,4.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,11,7,7,11,6.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,12,13,13,11,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,13,20,R,130,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,14,11,11,11,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,15,16,16,11,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,16,14,14,11,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,848,Alexander,Albon,ALB,3,Williams,17,12,12,11,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,18,18,12,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,19,17,17,11,0.0,mexico city,,,,,
+2022,2022-10-30,1094,Mexico City Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,20,15,15,11,0.0,mexico city,,,,,
+2022,2022-11-13,1095,São Paulo Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,0,17,17,11,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,847,George,Russell,RUS,131,Mercedes,1,1,1,1,26.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,2,2,2,1,18.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,6,6,1,8.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,4,7,7,1,6.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,5,4,4,1,12.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,846,Lando,Norris,NOR,1,McLaren,6,18,R,6,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,7,3,3,1,15.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,8,19,R,4,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,9,11,11,1,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,10,14,14,1,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,11,20,R,4,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,12,13,13,1,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,13,12,12,1,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,14,9,9,1,2.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,15,10,10,1,1.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,16,8,8,1,4.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,17,5,5,1,10.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,18,16,16,1,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-13,1095,São Paulo Grand Prix,848,Alexander,Albon,ALB,3,Williams,19,15,15,1,0.0,são paulo,São Paulo Grand Prix,2.0,1.0,60.0,12.0
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,2,3,3,1,15.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,3,2,2,1,18.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,4,4,1,12.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,18,18,9,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,847,George,Russell,RUS,131,Mercedes,6,5,5,1,10.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,6,6,1,9.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,7,7,1,6.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,20,Sebastian,Vettel,VET,117,Aston Martin,9,10,10,1,1.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,4,Fernando,Alonso,ALO,214,Alpine F1 Team,10,20,R,47,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,11,11,11,1,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,854,Mick,Schumacher,MSC,210,Haas F1 Team,12,16,16,11,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,817,Daniel,Ricciardo,RIC,1,McLaren,13,9,9,1,2.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,14,8,8,1,4.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,15,12,12,11,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,16,17,17,11,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,842,Pierre,Gasly,GAS,213,AlphaTauri,17,14,14,11,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,18,15,15,11,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,848,Alexander,Albon,ALB,3,Williams,19,13,13,11,0.0,abu dhabi,,,,,
+2022,2022-11-20,1096,Abu Dhabi Grand Prix,849,Nicholas,Latifi,LAT,3,Williams,20,19,19,130,0.0,abu dhabi,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,2,2,2,1,18.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,3,19,R,5,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,4,4,1,12.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,5,3,3,1,15.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,847,George,Russell,RUS,131,Mercedes,6,7,7,1,6.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,7,5,5,1,10.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,8,6,6,1,8.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,9,18,R,26,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,10,15,15,11,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,846,Lando,Norris,NOR,1,McLaren,11,17,17,12,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,12,8,8,1,4.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,13,16,16,11,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,14,11,11,1,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,848,Alexander,Albon,ALB,3,Williams,15,10,10,1,1.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,858,Logan,Sargeant,SAR,3,Williams,16,12,12,11,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,17,13,13,11,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,18,20,R,10,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,19,14,14,11,0.0,bahrain,,,,,
+2023,2023-03-05,1098,Bahrain Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,20,9,9,1,2.0,bahrain,,,,,
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,1,1,1,1,25.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,2,3,3,1,15.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,847,George,Russell,RUS,131,Mercedes,3,4,4,1,12.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,6,6,1,8.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,5,20,R,5,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,6,8,8,1,4.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,7,5,5,1,10.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,8,15,15,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,9,9,9,1,2.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,10,12,12,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,11,13,13,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,12,7,7,1,6.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,13,10,10,1,1.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,14,18,18,11,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,15,2,2,1,19.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,11,11,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,848,Alexander,Albon,ALB,3,Williams,17,19,R,23,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,18,14,14,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,846,Lando,Norris,NOR,1,McLaren,19,17,17,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-03-19,1099,Saudi Arabian Grand Prix,858,Logan,Sargeant,SAR,3,Williams,20,16,16,1,0.0,saudi arabian,Saudi Arabian Grand Prix,1.0,18.0,21.0,2.0
+2023,2023-04-02,1100,Australian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,0,5,5,1,11.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,0,11,11,1,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,847,George,Russell,RUS,131,Mercedes,2,18,R,5,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,2,2,1,18.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,4,3,3,1,15.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,12,12,1,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,6,4,4,1,12.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,7,20,R,4,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,848,Alexander,Albon,ALB,3,Williams,8,19,R,3,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,9,13,13,4,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,10,7,7,1,6.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,11,14,14,4,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,12,10,10,1,1.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,846,Lando,Norris,NOR,1,McLaren,13,6,6,1,8.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,14,17,17,3,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,15,15,15,4,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,16,8,8,1,4.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,17,9,9,1,2.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-02,1100,Australian Grand Prix,858,Logan,Sargeant,SAR,3,Williams,18,16,16,4,0.0,australian,Australian Grand Prix,3.0,1.0,57.0,9.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,0,15,15,1,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,0,17,17,11,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,3,3,1,15.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,2,2,1,18.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,3,1,1,1,25.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,5,5,1,10.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,6,6,1,8.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,6,4,4,1,12.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,9,9,1,2.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,8,10,10,1,1.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,9,7,7,1,6.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,10,11,11,1,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,847,George,Russell,RUS,131,Mercedes,11,8,8,1,5.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,848,Alexander,Albon,ALB,3,Williams,12,12,12,1,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,13,18,18,11,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,858,Logan,Sargeant,SAR,3,Williams,14,16,16,1,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,15,19,R,25,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,16,13,13,1,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,17,14,14,1,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-04-30,1101,Azerbaijan Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,18,20,R,3,0.0,azerbaijan,Azerbaijan Grand Prix,1.0,10.0,14.0,3.0
+2023,2023-05-07,1102,Miami Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,1,2,2,1,18.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,2,3,3,1,15.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,5,5,1,10.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,4,10,10,1,1.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,5,8,8,1,4.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,847,George,Russell,RUS,131,Mercedes,6,4,4,1,12.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,7,7,7,1,6.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,9,9,1,2.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,830,Max,Verstappen,VER,9,Red Bull,9,1,1,1,26.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,10,13,13,1,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,848,Alexander,Albon,ALB,3,Williams,11,14,14,1,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,12,15,15,1,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,13,6,6,1,8.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,14,16,16,1,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,15,18,18,1,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,846,Lando,Norris,NOR,1,McLaren,16,17,17,1,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,17,11,11,1,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,18,12,12,1,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,19,19,19,11,0.0,miami,,,,,
+2023,2023-05-07,1102,Miami Grand Prix,858,Logan,Sargeant,SAR,3,Williams,20,20,20,11,0.0,miami,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,2,2,2,1,18.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,3,3,3,1,15.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,8,8,1,4.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,4,4,1,13.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,6,6,6,1,8.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,7,7,7,1,6.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,847,George,Russell,RUS,131,Mercedes,8,5,5,1,10.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,9,15,15,12,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,846,Lando,Norris,NOR,1,McLaren,10,9,9,11,2.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,11,10,10,11,1.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,12,12,12,11,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,848,Alexander,Albon,ALB,3,Williams,13,14,14,11,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,14,20,R,3,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,15,11,11,11,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,858,Logan,Sargeant,SAR,3,Williams,16,18,18,12,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,17,19,R,130,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,18,17,17,12,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,19,13,13,11,0.0,monaco,,,,,
+2023,2023-05-28,1104,Monaco Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,20,16,16,12,0.0,monaco,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,2,5,5,1,10.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,846,Lando,Norris,NOR,1,McLaren,3,17,17,11,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,4,2,2,1,18.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,5,6,6,1,8.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,6,8,8,1,4.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,7,15,15,11,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,8,7,7,1,6.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,9,13,13,11,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,10,10,10,1,1.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,11,4,4,1,12.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,847,George,Russell,RUS,131,Mercedes,12,3,3,1,15.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,13,9,9,1,2.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,14,14,14,11,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,15,12,12,1,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,16,19,19,11,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,17,18,18,11,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,848,Alexander,Albon,ALB,3,Williams,18,16,16,11,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,19,11,11,1,0.0,spanish,,,,,
+2023,2023-06-04,1105,Spanish Grand Prix,858,Logan,Sargeant,SAR,3,Williams,20,20,20,11,0.0,spanish,,,,,
+2023,2023-06-18,1106,Canadian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,2,2,2,1,18.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,3,3,1,15.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,847,George,Russell,RUS,131,Mercedes,4,19,R,23,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,5,15,15,11,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,6,8,8,1,4.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,13,13,1,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,8,11,11,1,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,848,Alexander,Albon,ALB,3,Williams,9,7,7,1,6.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,10,4,4,1,12.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,11,5,5,1,10.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,12,6,6,1,9.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,13,17,17,11,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,14,10,10,1,1.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,15,12,12,1,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,16,9,9,1,2.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,17,18,18,11,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,858,Logan,Sargeant,SAR,3,Williams,18,20,R,5,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,19,14,14,1,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-06-18,1106,Canadian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,20,16,16,11,0.0,canadian,Canadian Grand Prix,1.0,12.0,17.0,4.0
+2023,2023-07-02,1107,Austrian Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,0,17,17,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,0,18,18,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,2,2,2,1,18.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,3,6,6,1,8.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,846,Lando,Norris,NOR,1,McLaren,4,4,4,1,12.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,8,8,1,4.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,6,9,9,1,2.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,7,5,5,1,10.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,8,20,R,75,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,9,10,10,1,1.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,848,Alexander,Albon,ALB,3,Williams,10,11,11,1,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,847,George,Russell,RUS,131,Mercedes,11,7,7,1,6.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,12,14,14,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,13,16,16,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,14,15,15,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,15,3,3,1,15.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,19,19,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,17,12,12,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-02,1107,Austrian Grand Prix,858,Logan,Sargeant,SAR,3,Williams,18,13,13,11,0.0,austrian,Austrian Grand Prix,1.0,1.0,4.0,3.0
+2023,2023-07-09,1108,British Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,846,Lando,Norris,NOR,1,McLaren,2,2,2,1,18.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,3,4,4,1,12.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,4,9,9,1,2.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,5,10,10,1,1.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,847,George,Russell,RUS,131,Mercedes,6,5,5,1,10.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,7,3,3,1,15.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,848,Alexander,Albon,ALB,3,Williams,8,8,8,1,4.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,9,7,7,1,6.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,10,18,18,130,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,11,13,13,1,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,12,14,14,1,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,13,20,R,44,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,858,Logan,Sargeant,SAR,3,Williams,14,11,11,1,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,15,6,6,1,8.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,16,16,1,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,17,15,15,1,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,856,Nyck,de Vries,DEV,213,AlphaTauri,18,17,17,1,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,19,19,R,5,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-09,1108,British Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,20,12,12,1,0.0,british,British Grand Prix,1.0,32.0,39.0,6.0
+2023,2023-07-23,1109,Hungarian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,1,4,4,1,12.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,1,1,1,26.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,846,Lando,Norris,NOR,1,McLaren,3,2,2,1,18.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,4,5,5,1,10.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,5,16,16,11,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,6,7,7,1,6.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,7,12,12,11,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,8,9,9,1,2.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,9,3,3,1,15.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,10,14,14,11,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,11,8,8,1,4.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,12,19,R,130,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,817,Daniel,Ricciardo,RIC,213,AlphaTauri,13,13,13,11,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,14,10,10,11,1.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,15,20,R,130,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,848,Alexander,Albon,ALB,3,Williams,16,11,11,11,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,17,15,15,11,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,847,George,Russell,RUS,131,Mercedes,18,6,6,1,8.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,19,17,17,11,0.0,hungarian,,,,,
+2023,2023-07-23,1109,Hungarian Grand Prix,858,Logan,Sargeant,SAR,3,Williams,20,18,R,31,0.0,hungarian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,0,18,18,1,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,3,3,1,15.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,2,2,2,1,18.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,4,4,1,13.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,19,R,130,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,5,20,R,130,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,6,1,1,1,25.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,846,Lando,Norris,NOR,1,McLaren,7,7,7,1,6.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,847,George,Russell,RUS,131,Mercedes,8,6,6,1,8.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,9,5,5,1,10.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,10,9,9,1,2.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,11,10,10,1,1.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,12,11,11,1,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,13,12,12,1,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,14,8,8,1,4.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,848,Alexander,Albon,ALB,3,Williams,15,14,14,1,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,16,15,15,1,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,17,13,13,1,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,858,Logan,Sargeant,SAR,3,Williams,18,17,17,1,0.0,belgian,,,,,
+2023,2023-07-30,1110,Belgian Grand Prix,817,Daniel,Ricciardo,RIC,213,AlphaTauri,19,16,16,1,0.0,belgian,,,,,
+2023,2023-08-27,1111,Dutch Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,0,16,16,1,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,846,Lando,Norris,NOR,1,McLaren,2,7,7,1,6.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,847,George,Russell,RUS,131,Mercedes,3,17,17,1,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,848,Alexander,Albon,ALB,3,Williams,4,8,8,1,4.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,5,2,2,1,19.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,6,5,5,1,10.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,7,4,4,1,12.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,8,9,9,1,2.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,9,19,R,140,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,858,Logan,Sargeant,SAR,3,Williams,10,20,R,3,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,11,11,11,1,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,12,3,3,1,15.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,13,6,6,1,8.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,14,12,12,1,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,15,18,R,3,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,16,10,10,1,1.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,17,15,15,1,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,18,14,14,1,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-08-27,1111,Dutch Grand Prix,859,Liam,Lawson,LAW,213,AlphaTauri,19,13,13,1,0.0,dutch,Dutch Grand Prix,2.0,16.0,67.0,7.0
+2023,2023-09-03,1112,Italian Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,1,3,3,1,15.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,1,1,1,25.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,3,4,4,1,12.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,847,George,Russell,RUS,131,Mercedes,4,5,5,1,10.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,5,2,2,1,18.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,848,Alexander,Albon,ALB,3,Williams,6,7,7,1,6.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,7,12,12,1,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,8,6,6,1,8.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,846,Lando,Norris,NOR,1,McLaren,9,8,8,1,4.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,10,9,9,1,2.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,11,20,R,5,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,859,Liam,Lawson,LAW,213,AlphaTauri,12,11,11,1,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,13,17,17,11,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,14,10,10,1,1.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,858,Logan,Sargeant,SAR,3,Williams,15,13,13,1,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,16,14,14,1,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,17,15,15,1,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,18,19,R,38,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,19,18,18,11,0.0,italian,,,,,
+2023,2023-09-03,1112,Italian Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,20,16,16,1,0.0,italian,,,,,
+2023,2023-09-17,1113,Singapore Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,0,12,12,1,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,0,20,W,54,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,1,1,1,1,25.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,847,George,Russell,RUS,131,Mercedes,2,16,16,3,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,3,4,4,1,12.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,846,Lando,Norris,NOR,1,McLaren,4,2,2,1,18.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,3,3,1,16.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,6,10,10,1,1.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,7,15,15,1,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,18,R,6,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,9,13,13,1,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,859,Liam,Lawson,LAW,213,AlphaTauri,10,9,9,1,2.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,830,Max,Verstappen,VER,9,Red Bull,11,5,5,1,10.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,12,6,6,1,8.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,13,8,8,1,4.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,848,Alexander,Albon,ALB,3,Williams,14,11,11,1,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,15,19,R,4,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,16,17,R,39,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,17,7,7,1,6.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-17,1113,Singapore Grand Prix,858,Logan,Sargeant,SAR,3,Williams,18,14,14,1,0.0,singapore,Singapore Grand Prix,1.0,20.0,23.0,2.0
+2023,2023-09-24,1114,Japanese Grand Prix,858,Logan,Sargeant,SAR,3,Williams,0,17,R,130,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,2,3,3,1,15.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,846,Lando,Norris,NOR,1,McLaren,3,2,2,1,18.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,4,4,4,1,12.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,5,19,R,130,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,6,6,6,1,8.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,7,5,5,1,10.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,847,George,Russell,RUS,131,Mercedes,8,7,7,1,6.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,9,12,12,11,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,10,8,8,1,4.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,859,Liam,Lawson,LAW,213,AlphaTauri,11,11,11,11,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,12,10,10,1,1.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,848,Alexander,Albon,ALB,3,Williams,13,16,R,130,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,14,9,9,1,2.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,15,15,15,11,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,16,20,R,130,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,17,18,R,65,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,18,14,14,11,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-09-24,1114,Japanese Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,19,13,13,11,0.0,japanese,Japanese Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,0,10,10,1,1.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,847,George,Russell,RUS,131,Mercedes,2,4,4,1,12.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,19,R,4,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,4,6,6,1,8.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,5,5,5,1,10.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,6,2,2,1,18.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,7,12,12,1,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,7,7,1,6.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,9,8,8,1,4.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,846,Lando,Norris,NOR,1,McLaren,10,3,3,1,15.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,11,15,15,11,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,12,20,W,95,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,848,Alexander,Albon,ALB,3,Williams,13,13,13,1,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,14,16,16,11,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,858,Logan,Sargeant,SAR,3,Williams,15,18,R,139,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,16,11,11,1,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,859,Liam,Lawson,LAW,213,AlphaTauri,17,17,17,11,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,18,14,14,11,0.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-08,1115,Qatar Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,19,9,9,1,2.0,qatar,Qatar Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-10-22,1116,United States Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,0,7,7,1,6.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,0,11,11,1,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,0,14,14,11,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,0,16,R,140,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,20,D,2,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,846,Lando,Norris,NOR,1,McLaren,2,2,2,1,18.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,3,19,D,2,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,4,3,3,1,15.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,847,George,Russell,RUS,131,Mercedes,5,5,5,1,10.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,830,Max,Verstappen,VER,9,Red Bull,6,1,1,1,25.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,7,6,6,1,8.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,8,18,R,130,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,9,4,4,1,12.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,10,17,R,21,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,11,8,8,1,5.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,12,13,13,11,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,13,12,12,1,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,817,Daniel,Ricciardo,RIC,213,AlphaTauri,14,15,15,11,0.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,848,Alexander,Albon,ALB,3,Williams,15,9,9,1,2.0,united states,,,,,
+2023,2023-10-22,1116,United States Grand Prix,858,Logan,Sargeant,SAR,3,Williams,16,10,10,1,1.0,united states,,,,,
+2023,2023-10-29,1117,Mexico City Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,0,17,17,130,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,3,3,1,15.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,2,4,4,1,12.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,830,Max,Verstappen,VER,9,Red Bull,3,1,1,1,25.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,817,Daniel,Ricciardo,RIC,213,AlphaTauri,4,7,7,1,6.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,5,20,R,130,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,6,2,2,1,19.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,7,8,8,1,4.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,847,George,Russell,RUS,131,Mercedes,8,6,6,1,8.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,9,15,15,1,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,10,14,14,1,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,11,11,11,1,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,12,13,13,1,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,13,18,R,54,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,848,Alexander,Albon,ALB,3,Williams,14,9,9,1,2.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,15,10,10,1,1.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,16,19,R,3,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,846,Lando,Norris,NOR,1,McLaren,17,5,5,1,10.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,18,12,12,1,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-10-29,1117,Mexico City Grand Prix,858,Logan,Sargeant,SAR,3,Williams,19,16,16,31,0.0,mexico city,Mexico City Grand Prix,1.0,34.0,36.0,2.0
+2023,2023-11-05,1118,São Paulo Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,0,20,W,5,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,25.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,3,5,5,1,10.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,4,3,3,1,15.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,5,8,8,1,4.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,846,Lando,Norris,NOR,1,McLaren,6,2,2,1,19.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,7,6,6,1,8.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,847,George,Russell,RUS,131,Mercedes,8,15,R,25,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,9,4,4,1,12.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,10,14,14,12,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,11,12,12,11,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,12,18,R,4,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,848,Alexander,Albon,ALB,3,Williams,13,19,R,4,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,14,10,10,11,1.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,15,7,7,1,6.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,16,9,9,1,2.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,817,Daniel,Ricciardo,RIC,213,AlphaTauri,17,13,13,11,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,18,16,R,5,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,858,Logan,Sargeant,SAR,3,Williams,19,11,11,11,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-05,1118,São Paulo Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,20,17,R,5,0.0,são paulo,São Paulo Grand Prix,1.0,1.0,5.0,4.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,1,2,2,1,18.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,830,Max,Verstappen,VER,9,Red Bull,2,1,1,1,25.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,847,George,Russell,RUS,131,Mercedes,3,8,8,1,4.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,4,11,11,1,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,848,Alexander,Albon,ALB,3,Williams,5,12,12,1,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,858,Logan,Sargeant,SAR,3,Williams,6,16,16,1,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,7,17,17,1,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,8,13,13,1,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,9,9,9,1,2.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,10,7,7,1,6.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,11,3,3,1,15.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,12,6,6,1,8.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,13,19,19,5,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,817,Daniel,Ricciardo,RIC,213,AlphaTauri,14,14,14,1,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,846,Lando,Norris,NOR,1,McLaren,15,20,R,3,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,16,4,4,1,12.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,17,15,15,1,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,18,10,10,1,2.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,19,5,5,1,10.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-19,1119,Las Vegas Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,20,18,18,6,0.0,las vegas,Las Vegas Grand Prix,2.0,4.0,29.0,6.0
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,830,Max,Verstappen,VER,9,Red Bull,1,1,1,1,26.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,844,Charles,Leclerc,LEC,6,Ferrari,2,2,2,1,18.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,857,Oscar,Piastri,PIA,1,McLaren,3,6,6,1,8.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,847,George,Russell,RUS,131,Mercedes,4,3,3,1,15.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,846,Lando,Norris,NOR,1,McLaren,5,5,5,1,10.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,852,Yuki,Tsunoda,TSU,213,AlphaTauri,6,8,8,1,4.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,4,Fernando,Alonso,ALO,117,Aston Martin,7,7,7,1,6.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,807,Nico,Hülkenberg,HUL,210,Haas F1 Team,8,15,15,1,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,815,Sergio,Pérez,PER,9,Red Bull,9,4,4,1,12.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,842,Pierre,Gasly,GAS,214,Alpine F1 Team,10,13,13,1,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,1,Lewis,Hamilton,HAM,131,Mercedes,11,9,9,1,2.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,839,Esteban,Ocon,OCO,214,Alpine F1 Team,12,12,12,1,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,840,Lance,Stroll,STR,117,Aston Martin,13,10,10,1,1.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,848,Alexander,Albon,ALB,3,Williams,14,14,14,1,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,817,Daniel,Ricciardo,RIC,213,AlphaTauri,15,11,11,1,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,832,Carlos,Sainz,SAI,6,Ferrari,16,18,18,31,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,825,Kevin,Magnussen,MAG,210,Haas F1 Team,17,20,20,11,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,822,Valtteri,Bottas,BOT,51,Alfa Romeo,18,19,19,11,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,855,Guanyu,Zhou,ZHO,51,Alfa Romeo,19,17,17,1,0.0,abu dhabi,,,,,
+2023,2023-11-26,1120,Abu Dhabi Grand Prix,858,Logan,Sargeant,SAR,3,Williams,20,16,16,1,0.0,abu dhabi,,,,,

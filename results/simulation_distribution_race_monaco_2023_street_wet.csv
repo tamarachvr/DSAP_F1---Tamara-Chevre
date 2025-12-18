@@ -1,0 +1,2 @@
+scenario,year,round,rainfall_any,n_drivers,n_simulations,expected_under,expected_neutral,expected_over,mc_mean_under,mc_mean_neutral,mc_mean_over
+monaco_2023_street_wet,2023,6,1,20,10000,5.656666666666666,9.98,4.363333333333333,5.6775,9.9509,4.371600000000001

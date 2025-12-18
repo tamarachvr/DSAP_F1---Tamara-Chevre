@@ -1,0 +1,2 @@
+scenario,year,round,rainfall_any,n_drivers,n_simulations,expected_under,expected_neutral,expected_over,mc_mean_under,mc_mean_neutral,mc_mean_over
+azerbaijan_2023_street_dry,2023,4,0,20,10000,4.3566666666666665,10.306666666666668,5.336666666666668,4.3698999999999995,10.3079,5.3222
