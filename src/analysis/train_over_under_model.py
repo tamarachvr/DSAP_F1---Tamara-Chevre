@@ -1,6 +1,7 @@
 import joblib
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.linear_model import LogisticRegression
@@ -20,13 +21,14 @@ MODELS_DIR = Path("models")
 
 RANDOM_STATE = 42  # for full reproducibility (prof requirement)
 
+
 # ---------------------------------------------------------------------
 # Load data and build X / y (NO LEAKAGE)
 # ---------------------------------------------------------------------
 def load_data():
     df = pd.read_csv(DATA_FILE)
     df.columns = df.columns.str.strip()
-    
+
     # ---------------------------------------------------------------
     # Clean rainfall_any
     # ---------------------------------------------------------------
@@ -115,7 +117,6 @@ def load_data():
     ]
 
     FEATURE_COLS = [c for c in FEATURE_COLS if c in df.columns]
-
     X = df[FEATURE_COLS].copy()
 
     # ---------------------------------------------------------------
@@ -133,29 +134,92 @@ def load_data():
     X = X.apply(pd.to_numeric, errors="coerce").fillna(0.0)
 
     years = df["year"].values  # needed for temporal split
-
     return X, y, years
+
+
+# ---------------------------------------------------------------------
+# Helpers: flatten report + confusion matrix into readable columns
+# ---------------------------------------------------------------------
+def _flatten_report_dict(report: dict) -> dict:
+    """
+    classification_report(output_dict=True) -> flat columns (for classes 0/1/2 + averages)
+    """
+    out = {}
+    for cls in ["0", "1", "2"]:
+        d = report.get(cls, {})
+        out[f"precision_{cls}"] = d.get("precision", np.nan)
+        out[f"recall_{cls}"] = d.get("recall", np.nan)
+        out[f"f1_{cls}"] = d.get("f1-score", np.nan)
+        out[f"support_{cls}"] = d.get("support", np.nan)
+
+    # accuracy is sometimes a float in dict
+    out["report_accuracy"] = report.get("accuracy", np.nan)
+
+    for avg_key, prefix in [
+        ("macro avg", "macro"),
+        ("weighted avg", "weighted"),
+    ]:
+        d = report.get(avg_key, {})
+        out[f"{prefix}_precision"] = d.get("precision", np.nan)
+        out[f"{prefix}_recall"] = d.get("recall", np.nan)
+        out[f"{prefix}_f1"] = d.get("f1-score", np.nan)
+        out[f"{prefix}_support"] = d.get("support", np.nan)
+
+    return out
+
+
+def _flatten_cm(cm: np.ndarray) -> dict:
+    """
+    3x3 confusion matrix -> cm_00..cm_22
+    """
+    out = {}
+    for i in range(3):
+        for j in range(3):
+            out[f"cm_{i}{j}"] = int(cm[i, j])
+    return out
 
 
 # ---------------------------------------------------------------------
 # Evaluation helper
 # ---------------------------------------------------------------------
-def evaluate_model(name, model, X_train, X_test, y_train, y_test):
+def evaluate_model(name, tag, model, X_train, X_test, y_train, y_test):
     model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
 
     acc = accuracy_score(y_test, y_pred)
     macro_f1 = f1_score(y_test, y_pred, average="macro")
+    weighted_f1 = f1_score(y_test, y_pred, average="weighted")
+
+    # Force consistent 3x3 order for your multiclass labels
+    labels = [0, 1, 2]
+    cm = confusion_matrix(y_test, y_pred, labels=labels)
+    report_dict = classification_report(y_test, y_pred, digits=3, output_dict=True, labels=labels)
 
     print(f"\n================ {name} ================")
     print("Confusion matrix:")
-    print(confusion_matrix(y_test, y_pred))
+    print(cm)
     print("\nClassification report:")
     print(classification_report(y_test, y_pred, digits=3))
-    print(f"Accuracy : {acc:.3f}")
-    print(f"Macro F1 : {macro_f1:.3f}")
+    print(f"Accuracy    : {acc:.3f}")
+    print(f"Macro F1    : {macro_f1:.3f}")
+    print(f"Weighted F1 : {weighted_f1:.3f}")
 
-    return model, acc, macro_f1
+    row = {
+        "model": name,
+        "tag": tag,
+        "test_year": 2023,
+        "accuracy": acc,
+        "macro_f1": macro_f1,
+        "weighted_f1": weighted_f1,
+        "n_train": int(len(y_train)),
+        "n_test": int(len(y_test)),
+        "n_features": int(X_train.shape[1]),
+        "random_state": RANDOM_STATE,
+    }
+    row.update(_flatten_cm(cm))
+    row.update(_flatten_report_dict(report_dict))
+
+    return model, row
 
 
 # ---------------------------------------------------------------------
@@ -186,7 +250,6 @@ def main():
     print(f"Train set (2021–2022): {X_train.shape[0]} rows")
     print(f"Test set  (2023): {X_test.shape[0]} rows")
 
-    # Safety checks
     assert X_train.shape[0] > 0, "Train set is empty"
     assert X_test.shape[0] > 0, "Test set is empty"
 
@@ -209,47 +272,29 @@ def main():
         n_jobs=-1,
     )
 
-    gb = GradientBoostingClassifier(
-        random_state=RANDOM_STATE
-    )
+    gb = GradientBoostingClassifier(random_state=RANDOM_STATE)
 
-    log_reg, acc_log, f1_log = evaluate_model(
-        "Multinomial Logistic Regression",
-        log_reg,
-        X_train,
-        X_test,
-        y_train,
-        y_test,
-    )
+    rows = []
 
-    rf, acc_rf, f1_rf = evaluate_model(
-        "Random Forest",
-        rf,
-        X_train,
-        X_test,
-        y_train,
-        y_test,
-    )
+    log_reg, r1 = evaluate_model("Multinomial Logistic Regression", "lr", log_reg, X_train, X_test, y_train, y_test)
+    rows.append(r1)
 
-    gb, acc_gb, f1_gb = evaluate_model(
-        "Gradient Boosting",
-        gb,
-        X_train,
-        X_test,
-        y_train,
-        y_test,
-    )
+    rf, r2 = evaluate_model("Random Forest", "rf", rf, X_train, X_test, y_train, y_test)
+    rows.append(r2)
+
+    gb, r3 = evaluate_model("Gradient Boosting", "gb", gb, X_train, X_test, y_train, y_test)
+    rows.append(r3)
 
     # ---------------------------------------------------------------
-    # Summary
+    # Save ONE CSV (consultable)
     # ---------------------------------------------------------------
-    print("\n================ Model comparison (TEST = 2023) ================")
-    print(f"Logistic Regression - Accuracy: {acc_log:.3f}, Macro F1: {f1_log:.3f}")
-    print(f"Random Forest       - Accuracy: {acc_rf:.3f}, Macro F1: {f1_rf:.3f}")
-    print(f"Gradient Boosting   - Accuracy: {acc_gb:.3f}, Macro F1: {f1_gb:.3f}")
+    out_csv = RESULTS_DIR / "train_over_under_model_results_2023.csv"
+    df_out = pd.DataFrame(rows).sort_values("macro_f1", ascending=False)
+    df_out.to_csv(out_csv, index=False)
+    print(f"\n✅ Saved: {out_csv.resolve()}")
 
     # ---------------------------------------------------------------
-    # Save models
+    # Save models (still needed for downstream scripts)
     # ---------------------------------------------------------------
     joblib.dump(log_reg, MODELS_DIR / "logistic_regression_multiclass.joblib")
     joblib.dump(rf, MODELS_DIR / "random_forest_multiclass.joblib")

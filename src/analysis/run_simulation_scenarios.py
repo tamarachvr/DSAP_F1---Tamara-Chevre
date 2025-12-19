@@ -301,7 +301,7 @@ def run_distribution_simulation_for_race(
         ]
     )
 
-    # -------------------- TERMINAL OUTPUT (prof-friendly) --------------------
+    # -------------------- TERMINAL OUTPUT --------------------
     # Print race summary as key:value
     print_race_summary_kv(race_summary)
 

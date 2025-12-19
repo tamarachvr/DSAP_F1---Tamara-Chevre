@@ -22,17 +22,12 @@ env/
 .env
 .python-version
 
-# ---- Raw data (NOT pushed) ----
-data/global/*.csv
-data/weather/*.csv
-data/safetycar/*.csv
-
 # ---- Models (regenerable, NOT pushed) ----
 models/
 *.joblib
 
 # ---- Everything else is versioned ----
-# - data/processed        ✅
+# - data/*.csv            ✅
 # - results/*.csv         ✅
 # - notebooks             ✅
 # - src/                  ✅

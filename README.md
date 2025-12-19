@@ -22,7 +22,7 @@ based on pre-race and race-related features?
 - Feature engineering including normalized grid position and contextual variables
 - Definition of performance labels (overperformance / underperformance)
 - Training and evaluation of multiple classification models
-- Scenario-based race simulations (simple and Monte Carlo)
+- Scenario-based race simulations (Monte Carlo)
 
 ## Project Structure
 
@@ -33,7 +33,6 @@ DSAP_F1/
 ├── src/                    # Source code
 │   ├── data/               # Data preparation scripts
 │   ├── analysis/           # Modeling, evaluation, simulations
-│   └── utils/              # Utility functions
 ├── data/
 │   ├── global/             # Raw race data (not tracked)
 │   ├── weather/            # Raw weather data (not tracked)
@@ -42,14 +41,22 @@ DSAP_F1/
 ├── results/                # Model outputs and simulation results
 └── notebooks/              # Exploratory notebooks
 
-## Setup
+
+## SETUP
+
+## Clone (HTTPS)
+
+git clone https://github.com/tamarachvr/DSAP_F1---Tamara-Chevre.git
+cd DSAP_F1---Tamara-Chevre
+
+## Environment
 
 Create the conda environment:
 
 conda env create -f environment.yml
 conda activate dsap-f1
 
-## Usage
+## Run
 
 Run the full pipeline with:
 
@@ -59,7 +66,7 @@ python main.py
 
 - Model performance metrics saved in `results/`
 - Feature importance analysis (Random Forest)
-- Race simulation results (simple and Monte Carlo)
+- Race simulation results
 
 ## Reproducibility
 

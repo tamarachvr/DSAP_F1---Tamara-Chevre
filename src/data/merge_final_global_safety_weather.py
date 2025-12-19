@@ -59,7 +59,7 @@ def main():
     print("Merged dataset shape:", merged.shape)
 
     # -----------------------------------------
-    # 🧹 Remove unwanted columns
+    # Remove unwanted columns
     # -----------------------------------------
     cols_to_drop = [
         "race_name_clean",
@@ -85,7 +85,7 @@ def main():
     )
 
     # -----------------------------------------
-    # 📌 Reorder columns: year → date → round → rest
+    # Reorder columns: year → date → round → rest
     # -----------------------------------------
     priority = ["year", "date", "round"]
     rest = [c for c in merged.columns if c not in priority]

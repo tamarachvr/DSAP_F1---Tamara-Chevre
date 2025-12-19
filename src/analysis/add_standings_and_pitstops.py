@@ -166,7 +166,7 @@ def main():
     print("After pit stop merge:", df.shape)
 
     # -----------------------------------------
-    # 📌 Sort final dataset by year, date, finish position
+    # Sort final dataset by year, date, finish position
     # -----------------------------------------
     df.columns = [c.strip() for c in df.columns]  # one last cleanup
     df["date"] = pd.to_datetime(df["date"])

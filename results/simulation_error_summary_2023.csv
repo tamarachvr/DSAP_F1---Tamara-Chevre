@@ -1,0 +1,13 @@
+metric,value
+MAE_under,1.3975000000000002
+RMSE_under,1.4815785500607117
+Bias_mean_delta_under,1.3975000000000002
+MAE_neutral,2.4558333333333313
+RMSE_neutral,2.5376635141624084
+Bias_mean_delta_neutral,-1.7708333333333335
+MAE_over,1.3716666666666668
+RMSE_over,1.4366744005978995
+Bias_mean_delta_over,0.3733333333333333
+mean_total_abs_error_per_race,5.224999999999998
+max_total_abs_error,6.039999999999999
+max_total_abs_error_scenario,monaco_2023_street_wet
