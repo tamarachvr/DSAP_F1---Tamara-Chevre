@@ -1,4 +1,4 @@
-# DSAP Final Project — Formula 1 Performance Analysis
+# DSAP Final Project — Over- and under-performance in Formula 1: The role of starting grid and race context (2021–2023)
 
 This project analyzes the relationship between starting grid position and race performance
 in Formula 1 across the 2021–2023 seasons.
@@ -27,17 +27,19 @@ based on pre-race and race-related features?
 ## Project Structure
 
 DSAP_F1/
-├── main.py                # Entry point (runs the full pipeline)
-├── environment.yml        # Conda dependencies
-├── README.md              # Project documentation
+├── main.py                 # Entry point (runs the full pipeline)
+├── environment.yml         # Conda dependencies
+├── README.md               # Project documentation
+├── PROPOSAL.md             # Project main idea
 ├── src/                    # Source code
 │   ├── data/               # Data preparation scripts
 │   ├── analysis/           # Modeling, evaluation, simulations
-├── data/
+├── data/                   # Datasets used to construct the project
 │   ├── global/             # Raw race data (not tracked)
 │   ├── weather/            # Raw weather data (not tracked)
 │   ├── safetycar/          # Raw safety car data (not tracked)
 │   └── processed/          # Processed datasets
+├── figures/                # Exported figures used in the report 
 ├── results/                # Model outputs and simulation results
 └── notebooks/              # Exploratory notebooks
 
@@ -64,7 +66,7 @@ python main.py
 
 ## Expected Output
 
-- Model performance metrics saved in `results/`
+- Model performance metrics saved in `results/` and figures saved in `figures/`
 - Feature importance analysis (Random Forest)
 - Race simulation results
 
